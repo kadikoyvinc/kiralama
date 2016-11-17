@@ -12,5 +12,7 @@ Eğer mobil hiyap teleskopik sepetli vinç ihtiyacınız varsa, hiç çekinmeyin
 
 <h3>Linkler</h3>
 <ul><li><a href="http://www.kadikoy.bel.tr/" title="vinç kiralama izinleri aldığımız belediye">Kadıköy Belediye</a></li>
+<li><a href="https://docs.google.com/document/d/1_8e8ztaN60SnP5oeMVQ4QzX9mtTxEJh452nGVamvGh0/edit?usp=sharing"></a></li>
 <li><a href="https://www.turkiye.gov.tr/kadikoy-belediyesi" title="e devlet vinç hizmeti">Kadıköy E-Devlet kapısı</a></li>
+<li><a href="http://www.vinchizmeti.com/kiralik-mobil-vinc/kadikoy.html">Kadıköy Kiralık Vinç Kiralama</a></li>
 <li><a href="https://www.instagram.com/kadikoybelediye/" title="#kadıköy #vinç">Kadıköy Belediye instagram</a></li></ul>
