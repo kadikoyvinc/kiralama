@@ -9,3 +9,8 @@ Efenim sizlere İstanbul'un <b>Kadıköy</b> ilçesinden yazıyoruz. Bizler iş 
 
 <h3>Nasıl vinç kiralayabilirim?</h3>
 Eğer mobil hiyap teleskopik sepetli vinç ihtiyacınız varsa, hiç çekinmeyin bir alo hoop ordayız. Telefonda iş tarif edilir, sonra keşif ekibimiz gelir işi ve proje alanını görür. Daha sonra fiyat teklifimiz yapılır, uygun görüldüğü takdirde tam zamanında operasyon başlatılır ve çılgınlar gibi kiralık vinçlerimizle tüm işlerinizi taşımacılık işlerinizi halledebiliriz.
+
+<h3>Linkler</h3>
+<ul><li><a href="http://www.kadikoy.bel.tr/" title="vinç kiralama izinleri aldığımız belediye">Kadıköy Belediye</a></li>
+<li><a href="https://www.turkiye.gov.tr/kadikoy-belediyesi" title="e devlet vinç hizmeti">Kadıköy E-Devlet kapısı</a></li>
+<li><a href="https://www.instagram.com/kadikoybelediye/" title="#kadıköy #vinç">Kadıköy Belediye instagram</a></li></ul>
